@@ -1,0 +1,7 @@
+D:\Users\rpame\source\repos\Semana08\Semana08\bin\Debug\Semana08.exe.config
+D:\Users\rpame\source\repos\Semana08\Semana08\bin\Debug\Semana08.exe
+D:\Users\rpame\source\repos\Semana08\Semana08\bin\Debug\Semana08.pdb
+D:\Users\rpame\source\repos\Semana08\Semana08\obj\Debug\Semana08.csprojAssemblyReference.cache
+D:\Users\rpame\source\repos\Semana08\Semana08\obj\Debug\Semana08.csproj.CoreCompileInputs.cache
+D:\Users\rpame\source\repos\Semana08\Semana08\obj\Debug\Semana08.exe
+D:\Users\rpame\source\repos\Semana08\Semana08\obj\Debug\Semana08.pdb
